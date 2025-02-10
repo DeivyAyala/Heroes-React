@@ -1,0 +1,112 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <SerchPage/> debe de mostarse a batman  1`] = `
+<div>
+  <h1>
+    Search
+  </h1>
+  <hr />
+  <div
+    class="row"
+  >
+    <div
+      class="col-5"
+    >
+      <h4>
+        Busquedas
+      </h4>
+      <hr />
+      <form>
+        <input
+          autocomplete="off"
+          class="form-control"
+          name="serchText"
+          placeholder="Busqueda de hero"
+          type="text"
+          value=""
+        />
+        <button
+          class="btn btn-outline-primary mt-2"
+        >
+          Buscar
+        </button>
+      </form>
+    </div>
+    <div
+      class="col-7"
+    >
+      <h4>
+        Resultados
+      </h4>
+      <hr />
+      <div
+        class="alert alert-primary animate__animated animate__fadeInLeft"
+      >
+        Buscar Un hero
+      </div>
+      <div
+        class="alert alert-danger animate__animated animate__fadeInLeft"
+        style="display: none;"
+      >
+        Hero no encontrado! - 
+        <b />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Pruebas en <SerchPage/> debe de mostarse a batman y el input  1`] = `
+<div>
+  <h1>
+    Search
+  </h1>
+  <hr />
+  <div
+    class="row"
+  >
+    <div
+      class="col-5"
+    >
+      <h4>
+        Busquedas
+      </h4>
+      <hr />
+      <form>
+        <input
+          autocomplete="off"
+          class="form-control"
+          name="serchText"
+          placeholder="Busqueda de hero"
+          type="text"
+          value=""
+        />
+        <button
+          class="btn btn-outline-primary mt-2"
+        >
+          Buscar
+        </button>
+      </form>
+    </div>
+    <div
+      class="col-7"
+    >
+      <h4>
+        Resultados
+      </h4>
+      <hr />
+      <div
+        class="alert alert-primary animate__animated animate__fadeInLeft"
+      >
+        Buscar Un hero
+      </div>
+      <div
+        class="alert alert-danger animate__animated animate__fadeInLeft"
+        style="display: none;"
+      >
+        Hero no encontrado! - 
+        <b />
+      </div>
+    </div>
+  </div>
+</div>
